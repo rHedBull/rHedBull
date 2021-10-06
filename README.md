@@ -15,6 +15,9 @@ $.ajax({
   },
 });
 
+.. image:: https://wakatime.com/share/@368fe759-bfdf-4618-858c-f07fbfe759de/d58b8e2d-6c83-4c22-9bd9-423613f68378.png
+    :target: https://wakatime.com/
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
