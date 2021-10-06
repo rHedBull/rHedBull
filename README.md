@@ -1,10 +1,7 @@
 ### Hi there 👋
 
 
-**rHedBull/rHedBull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-.. image:: https://wakatime.com/share/@368fe759-bfdf-4618-858c-f07fbfe759de/d58b8e2d-6c83-4c22-9bd9-423613f68378.png
-    :target: https://wakatime.com/
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@368fe759-bfdf-4618-858c-f07fbfe759de/d58b8e2d-6c83-4c22-9bd9-423613f68378.png" /></a>
 
 Here are some ideas to get you started:
 
