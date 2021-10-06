@@ -1,10 +1,9 @@
-### Hi there 👋
+# C'est moie
+## some stats 📊
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@368fe759-bfdf-4618-858c-f07fbfe759de/6f8e8bad-e179-47ed-b153-3c3c23f14d88.png" /></a>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@368fe759-bfdf-4618-858c-f07fbfe759de/d58b8e2d-6c83-4c22-9bd9-423613f68378.png" /></a>
-
-<figure><embed src="https://wakatime.com/share/@368fe759-bfdf-4618-858c-f07fbfe759de/26cfe530-caa4-4229-a10d-8f115625b46e.svg"></embed></figure>
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
