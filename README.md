@@ -1,5 +1,6 @@
 # C'est moi
 ## Most proud of projcets:
+https://github.com/rHedBull/8bitComputer
 
 <!--
 ## some stats 📊
