@@ -2,7 +2,7 @@
 ## Most proud of projcets:
 https://github.com/rHedBull/8bitComputer
 
-<!--
+
 ## some stats 📊
 
 
@@ -24,7 +24,7 @@ https://github.com/rHedBull/8bitComputer
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@368fe759-bfdf-4618-858c-f07fbfe759de/7474c860-bed1-4e81-8df4-137ee9ef48a9.png" /></a>
 
 
-
+<--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
