@@ -1,6 +1,9 @@
 # C'est moi
 ## Most proud of projcets:
 https://github.com/rHedBull/8bitComputer
+https://github.com/rHedBull/strategy_RL_env
+https://github.com/rHedBull/strategy_rl_training
+https://github.com/rHedBull/earth-to-gridMap
 
 
 ## some stats 📊
